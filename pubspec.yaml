@@ -1,7 +1,8 @@
 name: tief_fonts
 description: "A simple, straight forward way to read metadata from font files."
-version: 0.0.1
-homepage:
+version: 0.1.0
+homepage: https://www.lukechriswalker.at/
+repository: https://github.com/Tiefseetauchner/tief_fonts
 
 environment:
   sdk: ^3.12.2
